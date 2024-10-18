@@ -1,0 +1,87 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F5EBC9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFAE00;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #5C4033;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #D4AF37;
+}
+
+footer {
+    background-color: #5C4033;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+正文 {
+font-family： 'Arial'， 无衬线;
+背景色：#F5EBC9;
+边距： 0;
+填充： 0;
+}
+
+标题 {
+背景色：#FFAE00;
+内边距：20px;
+文本对齐：居中;
+}
+
+nav ul {
+列表样式类型：无;
+填充： 0;
+显示：flex;
+justify-content： center;
+}
+
+nav ul li {
+边距：0 15px;
+}
+
+nav ul li a {
+text-decoration： 无;
+颜色： #5C4033;
+字体粗细：粗体;
+}
+
+nav ul li a：hover {
+颜色： #D4AF37;
+}
+
+页脚 {
+背景色：#5C4033;
+颜色：白色;
+文本对齐：居中;
+内边距：10px;
+位置：固定;
+底部：0;
+宽度：100%;
+}
